@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "mapper.h"
 
 int main(int argc, char **argv) {
-    printf("Hello, world!\n");
+    Mapper mapper;
     return 0;
 }
